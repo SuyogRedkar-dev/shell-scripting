@@ -1,0 +1,11 @@
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "CPP",
+            "UserId": "AIDA2LIPZ74P65URIMNZN",
+            "Arn": "arn:aws:iam::711387119391:user/CPP",
+            "CreateDate": "2025-03-08T12:18:46+00:00"
+        }
+    ]
+}
